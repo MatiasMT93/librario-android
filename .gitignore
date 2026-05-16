@@ -1,0 +1,38 @@
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Configuración local
+/local.properties
+local.properties
+
+# Android Studio
+.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Sistema
+.DS_Store
+
+# Android generated
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / Bundle
+*.apk
+*.aab
+
+# Firmas / claves - NO subir
+*.jks
+*.keystore
+
+# Logs
+*.log
